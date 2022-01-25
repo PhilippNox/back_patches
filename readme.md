@@ -1,6 +1,6 @@
 ## Goal
 To have the "latest" file (json, yaml or anything else) which contains the latest version data.  
-And ordered list of .patch files which allows to get a previous versions of data.
+And ordered list of .patch files which allows to get a previous versions of the file.
 
 ### How to do update
 ```
